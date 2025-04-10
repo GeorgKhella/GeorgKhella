@@ -25,7 +25,7 @@ I am deeply interested in:
 
 ## 🛠️ **Technical Skills**
 - **Programming:** Python, R, MATLAB
-- **Mathematical Tools:** Stochastic Calculus, Probability Theory, Monte Carlo Methods
+- **Main Mathematical and Statistical Tools:** Stochastic Calculus, Probability Theory, Monte Carlo Methods, Variance Reduction Techniques, Linear and Logistic Regression, Variable Selection Techniques.
 
 ## 📬 **Connect with Me**
 - 🔗 **GitHub:** [GeorgKhella](https://github.com/GeorgKhella)
