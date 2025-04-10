@@ -30,7 +30,7 @@ I am deeply interested in:
 ## 📬 **Connect with Me**
 - 🔗 **GitHub:** [GeorgKhella](https://github.com/GeorgKhella)
 - 🔗 **LinkedIn:** [georg-khella](https://www.linkedin.com/in/georg-khella/)
-- ✉️ **Email:** georg.khella@epfl.ch
+- ✉️ **Email:** georgkh02@gmail.com
 
 ---
 
